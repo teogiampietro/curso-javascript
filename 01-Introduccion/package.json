@@ -1,0 +1,19 @@
+{
+  "name": "01-introduccion",
+  "version": "1.0.0",
+  "description": "Introducción al curso de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teogiampietro/curso-javascript.git"
+  },
+  "author": "Teo Giampietro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teogiampietro/curso-javascript/issues"
+  },
+  "homepage": "https://github.com/teogiampietro/curso-javascript#readme"
+}
